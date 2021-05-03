@@ -1,0 +1,15 @@
+.menu{
+    background-color: green;
+display:flex;
+justify-content:space-between;
+justify-content:center ;
+}
+.grid{
+    display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+}
+.origami{
+    border:solid;
+    border-color: black;
+}
